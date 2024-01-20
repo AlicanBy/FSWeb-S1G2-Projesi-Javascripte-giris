@@ -179,7 +179,8 @@ Aşağıdakileri sesliHarfSayaci fonskiyonunda yap.
 */
 
 function sesliHarfSayaci(/*buraya kodunu yazabilirsin*/) {
-  /*buraya kodunu yazabilirsin*/
+  /*buraya kodunu yazabilirsin*/ 
+  /*function eklemiş gibi*/
 }
 
 /* Lütfen bu satırın alt tarafını değiştirmeyin */
